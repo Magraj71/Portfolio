@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built using **React**, **Vite**, and **
 
 ## 🌐 Live Demo
 
-👉 [View Live Portfolio](https://your-live-link.vercel.app)
+👉 [View Live Portfolio](https://portfolio-sandy-alpha-70.vercel.app/)
 
 ---
 
