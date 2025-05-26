@@ -2,7 +2,7 @@ import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
 import Maggu from '../../assets/Maggu.jpg';
-import resume from '../../assets/Magraj_Resume.pdf'
+import resume from '../../assets/Magguresume.pdf'
 
 const About = () => {
   return (
