@@ -21,6 +21,8 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import jwt from './assets/tech_logo/jwt.svg';
 import spotify from './assets/work_logo/2025-05-26.png';
+import next from './assets/tech_logo/next.png';
+import summarizer from './assets/work_logo/2025-07-15 (2).png';
 
 // Experience Section Logo's
 
@@ -46,6 +48,7 @@ export const SkillsInfo = [
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
+      {name: 'Next JS', logo: next},
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
@@ -117,6 +120,16 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
+    {
+      id: 9,
+      title: "Full-Stack AI Text Summarizer",
+      description:
+        "Built a full-stack web app that generates concise summaries of long-form text using Google’s Gemini AI. Designed a responsive UI with Next.js 15 and Tailwind CSS. Integrated Firebase Firestore for real-time data storage and deployed via Vercel.",
+      image: summarizer,
+      tags: ["Next.JS", "HTML5 "," Tailwind CSS", "JavaScript (ES6+)", "Gemini API", "Firebase", "AI Integration"],
+      github: "https://github.com/Magraj71/aitext-sum",
+      webapp: "https://aitext-sum-nine.vercel.app/",
+    },
     {
       id: 0,
       title: "ChatEase",

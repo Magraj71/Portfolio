@@ -2,7 +2,7 @@ import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
 import Maggu from '../../assets/Maggu.jpg';
-import resume from '../../assets/Magguresume.pdf'
+import resume from '../../assets/Magraj_Jakhar.pdf'
 
 const About = () => {
   return (
@@ -38,7 +38,7 @@ const About = () => {
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             I am web developer and 2nd-year B.Tech student at IIIT Una, Himachal Pradesh.
-            I’ve sharpened my problem-solving skills by tackling 200+ LeetCode challenges,
+            I’ve sharpened my problem-solving skills by tackling 250+ LeetCode challenges,
             mastering algorithms and data structures along the way. On the front end,
             I’m fluent in HTML5, CSS3, and modern JavaScript (ES6+), and I love bringing
             pixel-perfect designs to life with frameworks like React. On the back end,
